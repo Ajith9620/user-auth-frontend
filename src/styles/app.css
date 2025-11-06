@@ -1,0 +1,35 @@
+body {
+  background-color: #f4f7fa;
+  font-family: "Segoe UI", sans-serif;
+}
+.container {
+  max-width: 400px;
+  margin-top: 100px;
+}
+.card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+h2 {
+  font-weight: 600;
+}
+
+.table {
+  font-size: 0.9rem;
+}
+
+.table thead {
+  background-color: #e9f2ff;
+}
+.table thead {
+  font-weight: 600;
+}
+
+.btn-sm {
+  padding: 4px 8px;
+  font-size: 0.85rem;
+}
+
+.card {
+  border-radius: 12px;
+}
